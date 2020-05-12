@@ -4,21 +4,21 @@
   ## Email
     - kandallhill@gmail.com
   ## Title
-    - Sunny
+    - Generated Readme
   ## Description
-    - Password generator
+    - To create a professional readme app
   ## Install
-    - download
+    - Using npm install
   ## Table of Contents
-    - 9
+    - The Title, discription, installtion, usuage and contributing
   ## Usage
-    - user input
+    - Everytime I run this app, it will generate a readme
   ## License
-    - ISC,MIT
+    - ISC
   ## Contributions
-    - team work
+    - using github account
   ## Questions
-    - test
+    - application test
   ## Video Link
-  [![Alt text for your video]](https://drive.google.com/file/d/1pVWR7ibRRIL5QVacQggfJXOpBrzTZ9Jm/preview "Put hover text here!")
+  [![Alt text for your video]](https://drive.google.com/file/d/14vMIxJe1nzVDvfxKNMtLefyKLkeFs-Ys/view "Put hover text here!")
   
